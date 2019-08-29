@@ -1,0 +1,195 @@
+Borough,Neighborhood,ID,Name
+Bronx,Riverdale,503cfaffe4b066d39de5005a,Aoyu Japanese Restaurant
+Bronx,Riverdale,4b0b311af964a520642e23e3,Palace of Japan
+Bronx,Kingsbridge,503cfaffe4b066d39de5005a,Aoyu Japanese Restaurant
+Bronx,Kingsbridge,4b0b311af964a520642e23e3,Palace of Japan
+Bronx,City Island,4dbdf3d790a02849cbd675be,Ohana Japanese Habachi Seafood & Steakhouse
+Bronx,Spuyten Duyvil,4b0b311af964a520642e23e3,Palace of Japan
+Bronx,Spuyten Duyvil,503cfaffe4b066d39de5005a,Aoyu Japanese Restaurant
+Bronx,Castle Hill,54e0efc3498e7eda5dff1847,Sarku
+Brooklyn,Bay Ridge,4b33fd94f964a520842325e3,Arirang Hibachi Steakhouse
+Brooklyn,Bensonhurst,51f42bb3498e2681264e00a1,Kasumi Sushi & BBQ Restaurant
+Brooklyn,Bensonhurst,513e7ec8e4b07f4fa1b53b3d,Fuki Sushi Japanese Restaurant
+Brooklyn,Bensonhurst,4b787863f964a52080d02ee3,Shiki Japanese Hibachi
+Brooklyn,Bensonhurst,4c326b9fa0ced13ac126156e,Ichi Sushi
+Brooklyn,Gravesend,4d6adae62ea9b1f7cb22ca28,Fuji Hana
+Brooklyn,Sheepshead Bay,5236313711d25d0f9d3f3b67,Momo Hibachi Steak House & Bar
+Brooklyn,Sheepshead Bay,4d2262470901721ebc95a2a5,Tenda Asian Fusion
+Brooklyn,Manhattan Terrace,4baab031f964a520fc7f3ae3,Chikurin Japanese Restaurant
+Brooklyn,Manhattan Terrace,4bf890acabdaef3b69b7a184,Masake
+Brooklyn,Crown Heights,5091d1ffe4b0f08bb9df6701,Masago Bistro
+Brooklyn,Crown Heights,4d1004a56331a0930a505494,Sakura Tokyo
+Brooklyn,Crown Heights,4e8e51a86c255231f540bad1,Sushi Spot
+Brooklyn,Kensington,4d5c12a01e43236a87eb1583,Sake Sushi
+Brooklyn,Prospect Heights,5cb5e5f9a35f4600255406c6,Maison Yaki
+Brooklyn,Prospect Heights,41478600f964a520c41c1fe3,Geido
+Brooklyn,Williamsburg,51f9b7b3498eefe896caeb23,Shalom Japan
+Brooklyn,Williamsburg,4c7f0887fb74236a7727f9b9,Samurai Mama
+Brooklyn,Bushwick,59598280a795bd4a3cd8ccc5,Ajihei Bushwick
+Brooklyn,Bedford Stuyvesant,5b3bcb69bfc6d0002ca9bf17,Warude
+Brooklyn,Brooklyn Heights,479ccb47f964a5206b4d1fe3,Iron Chef House
+Brooklyn,Brooklyn Heights,48a41073f964a52091511fe3,Hibino
+Brooklyn,Cobble Hill,48a41073f964a52091511fe3,Hibino
+Brooklyn,Cobble Hill,4bafd791f964a5203c253ce3,Mitoushi Sushi
+Brooklyn,Fort Greene,5739c66c498e7ef6085cec4f,Karasu
+Brooklyn,Park Slope,5276d39a498eb1a5d90096e4,Katsuei
+Brooklyn,Park Slope,3fd66200f964a5208af11ee3,Yamato
+Brooklyn,Park Slope,41478600f964a520c41c1fe3,Geido
+Brooklyn,Manhattan Beach,5236313711d25d0f9d3f3b67,Momo Hibachi Steak House & Bar
+Brooklyn,Bath Beach,51f42bb3498e2681264e00a1,Kasumi Sushi & BBQ Restaurant
+Brooklyn,Bath Beach,4bad45c9f964a52089403be3,Chikurin
+Brooklyn,Bath Beach,513e7ec8e4b07f4fa1b53b3d,Fuki Sushi Japanese Restaurant
+Brooklyn,Bath Beach,4c326b9fa0ced13ac126156e,Ichi Sushi
+Brooklyn,Bath Beach,4b787863f964a52080d02ee3,Shiki Japanese Hibachi
+Brooklyn,Dyker Heights,4b33fd94f964a520842325e3,Arirang Hibachi Steakhouse
+Brooklyn,Dyker Heights,538e057d498e5865fbe8e9aa,Hibachi Master
+Brooklyn,Marine Park,4c140e42a1010f4742d24b18,Sakura
+Brooklyn,Clinton Hill,591f7c5f35f9836382455eca,U-Gu
+Brooklyn,Clinton Hill,5739c66c498e7ef6085cec4f,Karasu
+Brooklyn,Downtown,5946d138e2da1964625ca9b2,Daigo Hand Roll Bar
+Brooklyn,Downtown,58a202a25490d30f87553a08,Rice & Miso
+Brooklyn,Boerum Hill,58a202a25490d30f87553a08,Rice & Miso
+Brooklyn,Boerum Hill,5946d138e2da1964625ca9b2,Daigo Hand Roll Bar
+Brooklyn,Midwood,4baab031f964a520fc7f3ae3,Chikurin Japanese Restaurant
+Brooklyn,Midwood,4bf890acabdaef3b69b7a184,Masake
+Brooklyn,Georgetown,4d7fc91f95c1a143260eecf2,Yoshi
+Brooklyn,Georgetown,4bfc3f24b5cd2d7fc34931fb,Sosaku
+Brooklyn,East Williamsburg,52517e05498ec2e28c792fa2,Brooklyn Ball Factory
+Brooklyn,East Williamsburg,4c9e9c8f0e9bb1f77e39e95f,Momo Sushi Shack
+Brooklyn,North Side,4c7f0887fb74236a7727f9b9,Samurai Mama
+Brooklyn,North Side,49cea29ef964a520685a1fe3,Zenkichi
+Brooklyn,South Side,4c7f0887fb74236a7727f9b9,Samurai Mama
+Brooklyn,Fort Hamilton,4c2678eef1272d7f43a986c5,Fushimi
+Brooklyn,Fort Hamilton,51675793e4b0cb9353996685,Suki Sushi Bay Ridge
+Brooklyn,Fort Hamilton,4b33fd94f964a520842325e3,Arirang Hibachi Steakhouse
+Brooklyn,Fort Hamilton,538e057d498e5865fbe8e9aa,Hibachi Master
+Manhattan,Chinatown,4cf9655334c1a09374cb390e,Cocoron
+Manhattan,Hamilton Heights,531a0207498e06b4656eb8c5,Geisha Japanese Cuisine
+Manhattan,Manhattanville,531a0207498e06b4656eb8c5,Geisha Japanese Cuisine
+Manhattan,Upper East Side,542efa85498ea11026c9746c,Kappo Masa
+Manhattan,Yorkville,4bd0fe22a8b3a593a123655f,Donguri Restaurant
+Manhattan,Yorkville,4b3fdfc8f964a5200ab125e3,Ichiro
+Manhattan,Yorkville,4fb93e46e4b0d0dd7eb666c6,Amura Japanese Cuisine
+Manhattan,Lenox Hill,5aa1d85d5f68b931b6f5acda,Kome Waza UES
+Manhattan,Roosevelt Island,5aa1d85d5f68b931b6f5acda,Kome Waza UES
+Manhattan,Upper West Side,5759f71d498e0776955f4096,Mido
+Manhattan,Clinton,4ef0d81fbe7ba3ed7c2296d2,Gyu-Kaku Japanese BBQ
+Manhattan,Midtown,51fd77be498e883bf20fcca8,OOTOYA 大戸屋 (OOTOYA)
+Manhattan,Midtown,4ad67f80f964a5207e0721e3,Hatsuhana
+Manhattan,Murray Hill,4a99b4f4f964a520f62f20e3,Kajitsu
+Manhattan,Murray Hill,540dc46d498e86f0e5059dd2,Zuma New York
+Manhattan,Murray Hill,49db8b67f964a520d85e1fe3,Aburiya Kinnosuke
+Manhattan,Murray Hill,51e8ce40498ea1fb0180efb2,Izakaya MEW
+Manhattan,Murray Hill,5ad925da2f97ec3e4b17eba2,Nonono
+Manhattan,Chelsea,454f7cc4f964a520dc3c1fe3,Morimoto
+Manhattan,East Village,510c85e7e4b0056826b88297,Kura
+Manhattan,East Village,5b3805910dd31f002409405a,Suki Curry
+Manhattan,East Village,57a3bda338fa6612ad9c17f2,Secchu Yokota
+Manhattan,Lower East Side,4f4442c9e4b0f94a357a383b,Yopparai
+Manhattan,Lower East Side,57a3bda338fa6612ad9c17f2,Secchu Yokota
+Manhattan,Little Italy,4cf9655334c1a09374cb390e,Cocoron
+Manhattan,West Village,4bc10965abf49521296bc093,Takashi
+Manhattan,West Village,42055e00f964a5206e1f1fe3,EN Japanese Brasserie
+Manhattan,Manhattan Valley,4ae63b5bf964a520d7a521e3,Yakitori Sun-Chan
+Manhattan,Gramercy,581a10901df6b32e66ec3a07,Sugarfish
+Manhattan,Gramercy,555fdf00498ee79eb2118581,o ya
+Manhattan,Battery Park City,4b60c708f964a520d0f829e3,Nobu Downtown
+Manhattan,Financial District,4b60c708f964a520d0f829e3,Nobu Downtown
+Manhattan,Financial District,585c15782b04f80cdd0e9711,Kome Waza
+Queens,Astoria,5c8c36363af988002c811da1,Mochiron Izakaya
+Queens,Woodside,59cfbbaf491be76b026b6a84,Matsuri
+Queens,Howard Beach,4c100cd3b93cc9b6482156e0,Hagane
+Queens,Forest Hills,45da8cc4f964a520f8421fe3,Midori Matsu
+Queens,Flushing,553ed373498e6aacce815a89,Iki Modern Japanese Cuisine
+Queens,Flushing,59332282fdb9a77bd81847b5,Gyu-Kaku Japanese BBQ
+Queens,Long Island City,5a22f5b8d41bb773bfc3f5c3,Suzuki Shokudo
+Queens,Sunnyside,4abebdcbf964a520a78f20e3,Ariyoshi Japanese Restaurant
+Queens,Sunnyside,4ba2a9cbf964a520d00d38e3,Oki Japanese Restaurant
+Queens,Maspeth,4c4653d8dd35be9ab0a4ddd8,Wakamatsu
+Queens,Glendale,4b9d6d91f964a52000ac36e3,Shiro of Japan
+Queens,Rego Park,4ee7eaf7469064168cac36bf,Bamboo Ya
+Queens,Woodhaven,5626cef5498e1226c02a6b50,U-Me Sushi
+Queens,College Point,4c6038b654ac0f4736f7b421,Akiyama™  Sushi
+Queens,Whitestone,4bf716a85317a5930e72fd7e,Takara Sushi Japanese Restaurant
+Queens,Whitestone,4cf1b6e98333224b19350c8e,Casa Asia Cuisine
+Queens,Auburndale,4b05e38ff964a5202de522e3,Yamato Sushi
+Queens,Little Neck,53696c9b498ef94c9f2bc134,Tei Nei Ya
+Queens,Douglaston,53696c9b498ef94c9f2bc134,Tei Nei Ya
+Queens,Kew Gardens Hills,5801a5a238faa8f401a48ecd,Mira Sushi
+Queens,Fresh Meadows,4d7926de930ef04da310c24f,Tokyo Hibachi Steak House & Sushi
+Queens,Briarwood,5801a5a238faa8f401a48ecd,Mira Sushi
+Queens,Jamaica Center,50f5979fe4b0ff6d3603e506,PP Boy Japan Teriyaki & Sushi
+Queens,Jamaica Center,56e9f696498e0c20d785bfe6,Shoku Japan Express
+Queens,Rochdale,4e9a1172f5b9d59004689deb,Xin Bao Japanese Cuisine
+Queens,Beechhurst,4bf716a85317a5930e72fd7e,Takara Sushi Japanese Restaurant
+Queens,Beechhurst,4cf1b6e98333224b19350c8e,Casa Asia Cuisine
+Queens,Murray Hill,4bc8eee83740b713fcbe5d65,Northern Sushi
+Queens,Hillcrest,5501cbe6498e4f463c238485,Nikko Hibachi
+Queens,Hillcrest,4b6f3283f964a520ace32ce3,Izumi Japanese Restaurant
+Queens,Ravenswood,54e52f13498e7116ea0cb0d0,Kondo
+Queens,Ravenswood,5a22f5b8d41bb773bfc3f5c3,Suzuki Shokudo
+Queens,Lindenwood,4b9ae1e3f964a52030df35e3,Kawaii
+Queens,Lefrak City,4ee7eaf7469064168cac36bf,Bamboo Ya
+Queens,Lefrak City,4c3b4ae416cb2d7f8b9c02a9,Tomo Japanese Cafe
+Queens,Forest Hills Gardens,4b5b135df964a52057e228e3,Katsuno
+Queens,Forest Hills Gardens,4fbfb2ece4b0a6eab8ea41b8,Fuji Japanese Cuisine
+Queens,Forest Hills Gardens,45da8cc4f964a520f8421fe3,Midori Matsu
+Staten Island,West Brighton,4bca626368f976b086615f83,Kyoto Sushi 5
+Staten Island,Castleton Corners,4d06abf2c2e5370451f1c467,Tokyo Sushi Japanese
+Staten Island,Great Kills,4b747a21f964a520e6de2de3,Arirang Hibachi Steakhouse
+Staten Island,Great Kills,4be44192d4f7c9b6ccdd2320,Sake One
+Brooklyn,Wingate,4e8e51a86c255231f540bad1,Sushi Spot
+Staten Island,Grasmere,4bad3dcbf964a520173d3be3,Fuji Sushi
+Staten Island,Old Town,4bad3dcbf964a520173d3be3,Fuji Sushi
+Staten Island,Dongan Hills,4ba57c41f964a520c60b39e3,Nakata
+Staten Island,Grant City,4e4e4a61bd4101d0d7a6f56f,Fushimi Japanese Restaurant
+Staten Island,Bay Terrace,4ba6aeadf964a5208d6839e3,Hokkaido Japanese Restaurant
+Staten Island,Charleston,4bc898de15a7ef3b40697bda,Buddha Lounge
+Staten Island,Bulls Head,4b79eec8f964a520161b2fe3,Sapporo Sushi
+Manhattan,Carnegie Hill,4b3fdfc8f964a5200ab125e3,Ichiro
+Manhattan,Carnegie Hill,542c92dd498e2e6afd3439a7,Kobeyaki
+Manhattan,Noho,57a3bda338fa6612ad9c17f2,Secchu Yokota
+Manhattan,Noho,5b3805910dd31f002409405a,Suki Curry
+Manhattan,Noho,4a02e66ff964a52073711fe3,Bohemian
+Manhattan,Noho,4cf9655334c1a09374cb390e,Cocoron
+Manhattan,Noho,510c85e7e4b0056826b88297,Kura
+Manhattan,Civic Center,4b60c708f964a520d0f829e3,Nobu Downtown
+Manhattan,Midtown South,51e8ce40498ea1fb0180efb2,Izakaya MEW
+Manhattan,Midtown South,58b8ed467220e661ddf34104,KazuNori: The Original Hand Roll Bar
+Manhattan,Midtown South,59bfea3358aa7f10d5eb9b33,Chikarashi
+Staten Island,Richmond Town,4ba6aeadf964a5208d6839e3,Hokkaido Japanese Restaurant
+Staten Island,Concord,4bad3dcbf964a520173d3be3,Fuji Sushi
+Staten Island,Randall Manor,4bca626368f976b086615f83,Kyoto Sushi 5
+Staten Island,Elm Park,51f04e2d498e156ecf7fa3c7,Umi Sushi & Hibachi
+Brooklyn,Mill Basin,4d7fc91f95c1a143260eecf2,Yoshi
+Brooklyn,Mill Basin,4bfc3f24b5cd2d7fc34931fb,Sosaku
+Queens,Jamaica Hills,50f5979fe4b0ff6d3603e506,PP Boy Japan Teriyaki & Sushi
+Queens,Utopia,5501cbe6498e4f463c238485,Nikko Hibachi
+Queens,Utopia,4b6f3283f964a520ace32ce3,Izumi Japanese Restaurant
+Queens,Utopia,4d7926de930ef04da310c24f,Tokyo Hibachi Steak House & Sushi
+Queens,Utopia,4b817770f964a520ffa730e3,Futigi Japanese Cuisine
+Queens,Pomonok,4b817770f964a520ffa730e3,Futigi Japanese Cuisine
+Queens,Hunters Point,52b470f511d2522f86497c9b,Hibino LIC
+Queens,Hunters Point,5718e217498e458de03e94c8,Takumen
+Queens,Hunters Point,5bb7e3ced48ec100398ab4fb,Dai Hachi
+Manhattan,Turtle Bay,49db8b67f964a520d85e1fe3,Aburiya Kinnosuke
+Manhattan,Turtle Bay,48208c8cf964a520894f1fe3,Gyu-Kaku Japanese BBQ
+Manhattan,Turtle Bay,57dc24c4498e06f25a69a568,Matsunoya
+Manhattan,Tudor City,559cbaa6498eaa4e8d884811,Tempura Matsui
+Manhattan,Tudor City,49db8b67f964a520d85e1fe3,Aburiya Kinnosuke
+Manhattan,Tudor City,4a99b4f4f964a520f62f20e3,Kajitsu
+Manhattan,Tudor City,591caee89deb7d0f69be77a2,Omusubi Gonbei
+Manhattan,Tudor City,536ee0fb498e265dd8cb4a93,Tsushima
+Manhattan,Stuyvesant Town,510c85e7e4b0056826b88297,Kura
+Manhattan,Flatiron,4f7b61f6e4b07aaa5d524842,OOTOYA 大戸屋 (OOTOYA)
+Manhattan,Flatiron,5bd7a5561c675b0039be9acc,HALL
+Manhattan,Flatiron,581a10901df6b32e66ec3a07,Sugarfish
+Queens,Sunnyside Gardens,4ba2a9cbf964a520d00d38e3,Oki Japanese Restaurant
+Queens,Sunnyside Gardens,4abebdcbf964a520a78f20e3,Ariyoshi Japanese Restaurant
+Brooklyn,Fulton Ferry,50a94269e4b0ed1fd95eede7,Rice & Miso Everyday
+Brooklyn,Vinegar Hill,50a94269e4b0ed1fd95eede7,Rice & Miso Everyday
+Brooklyn,Dumbo,50a94269e4b0ed1fd95eede7,Rice & Miso Everyday
+Brooklyn,Homecrest,4d6adae62ea9b1f7cb22ca28,Fuji Hana
+Brooklyn,Homecrest,4bfb16ebd2b720a16395326a,Omiya Sushi
+Staten Island,Richmond Valley,4bc898de15a7ef3b40697bda,Buddha Lounge
+Queens,Malba,4c6038b654ac0f4736f7b421,Akiyama™  Sushi
